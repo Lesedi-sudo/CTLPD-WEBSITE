@@ -1,0 +1,187 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CTLPD.COM" resolutions="1x" timestamp="1603054237561">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4286482638" ref="academic-schools:library:news---events:about:team:research:index:campus-life:resouces:contact:ctlpd:study@spu"/>
+    <file name="academic-schools.css" crc="146694546" ref="academic-schools"/>
+    <file name="library.css" crc="146694546" ref="library"/>
+    <file name="news---events.css" crc="146694546" ref="news---events"/>
+    <file name="about.css" crc="146694546" ref="about"/>
+    <file name="team.css" crc="291503344" ref="team"/>
+    <file name="research.css" crc="146694546" ref="research"/>
+    <file name="index.css" crc="232461395" ref="index"/>
+    <file name="campus-life.css" crc="146694546" ref="campus-life"/>
+    <file name="resouces.css" crc="3844747530" ref="resouces"/>
+    <file name="contact.css" crc="498590320" ref="contact"/>
+    <file name="ctlpd.css" crc="3986337290" ref="ctlpd"/>
+    <file name="study_spu.css" crc="146694546" ref="study@spu"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:ctlpd:team:resouces:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:ctlpd:team:resouces:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+    <file name="require.js" crc="7928878" ref="index:academic-schools:ctlpd:study@spu:campus-life:about:library:research:news---events:team:resouces:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:ctlpd:team:resouces:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="ctlpd" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resouces" alt=""/>
+    </file>
+    <file name="download (2)2.jpg" crc="4019156365" seo="true" ref="index:ctlpd:team:resouces:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="ctlpd" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resouces" alt=""/>
+    </file>
+    <file name="download (2)21.jpg" crc="4101945544" seo="true" ref="index:ctlpd:team:resouces:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="ctlpd" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resouces" alt=""/>
+    </file>
+    <file name="phone-512.png" crc="518937414" ref="index:ctlpd:team:resouces:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="ctlpd" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resouces" alt=""/>
+    </file>
+    <file name="1024px-gmail_iconsvg.png" crc="4194711908" ref="index:ctlpd:team:resouces:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="ctlpd" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resouces" alt=""/>
+    </file>
+    <file name="2021-applications-website-banner-1-scaled.jpg" crc="251604353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="spu-virtual-open-day-web-banner-after-event-scaled.jpg" crc="4282810463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spu-web-banner-oct-2020-scaled.jpg" crc="3957742794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nsfas-2021-applications-spu-website-banner-8356-x-2625-003.jpg" crc="64926792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="sidebar-gaphic-ofib2dcqg6psy4x8ch4pitd5qww8mas0bcl3fu8ng0-u2437.png" crc="4229120086" ref="index"/>
+    <file name="apply-now-graphic.jpg" crc="255641100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school-of-economic-icon-150x150-u2316.png" crc="466830802" ref="index"/>
+    <file name="school-of-education-icon-150x150-u2326.png" crc="333312316" ref="index"/>
+    <file name="school-of-humanities-icon-1-150x150-u2336.png" crc="114643215" ref="index"/>
+    <file name="school-of-natural-sciences-icon-150x150-u2346.png" crc="3814309356" ref="index"/>
+    <file name="nsfas-logo-e1542824783352.png" crc="80646086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cao_logo-e1543482272574.png" crc="449730207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="funza-oua4xviv5zxpcha4paw7wc9mwxsw45nc2se4kgcole.jpg" crc="4198722952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb-ot6gl30szblra5bvbgnxxb58flyx0tkfd6waajzwbc.png" crc="3778186315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-icon-ofie1iycty4pj0dlzg2wi4lv1u7mx28zin6pal2m3c.jpg" crc="4151736177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-ofib9iwhqh8ichmvx7xs8d2fw33u0b913ol18tcg2g.jpg" crc="195024280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="112046372" ref="ctlpd">
+      <caption webpage="ctlpd" alt=""/>
+    </file>
+    <file name="dr mosia-u2529.png" crc="3839829725" ref="ctlpd"/>
+    <file name="open-uri20191209-7919-b5e62j.jpg" crc="95325830" ref="ctlpd">
+      <caption webpage="ctlpd" alt=""/>
+    </file>
+    <file name="78058915_2521622854747872_6425210185064644608_o.jpg" crc="494211764" ref="ctlpd">
+      <caption webpage="ctlpd" alt=""/>
+    </file>
+    <file name="40643626_2205875959655898_4767137983134433280_o.jpg" crc="346926907" ref="ctlpd">
+      <caption webpage="ctlpd" alt=""/>
+    </file>
+    <file name="04447b72-2014-02-28-new-university-an-intellectual-core-for-kimberley-image.jpg" crc="3963995021" ref="ctlpd">
+      <caption webpage="ctlpd" alt=""/>
+    </file>
+    <file name="107089530.jpg" crc="197064547" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="dr mosia-u4584-fr.png" crc="4266561442" ref="team"/>
+    <file name="dr v.jpg" crc="48817893" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="godfrey.jpg" crc="3772696054" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="kelesitse.jpg" crc="519124940" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="kedibone.jpg" crc="202060020" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="alida lochner.jpg" crc="159827688" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="veronica.jpg" crc="3818980618" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="valetta.jpg" crc="320041355" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="aletta lamprecht.jpg" crc="424671218" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="kagisho mosikare.jpg" crc="366597425" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="97533513_1563195837184802_4560250941789437952_o.jpg" crc="4231829736" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="elsabe van vuuren.jpg" crc="3774849435" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="fortune marumo.jpg" crc="3928775355" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="img-20190812-wa0041.jpg" crc="4254227148" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="40778881_2205849229658571_8008306070621519872_o.jpg" crc="4102424413" ref="resouces">
+      <caption webpage="resouces" alt=""/>
+    </file>
+    <file name="3a7e682e-5ab1-585d-ad52-c792f6f459fa.jpg" crc="4061398414" ref="resouces">
+      <caption webpage="resouces" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3796641137" seo="true" mt="1603053808707" redirect="true"/>
+  <file name="academic-schools.html" crc="3855465089" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="ctlpd.html" crc="448865455" seo="true" mt="1603053820659" redirect="true"/>
+  <file name="study@spu.html" crc="72930111" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="campus-life.html" crc="3873134548" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="about.html" crc="111983375" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="library.html" crc="384208094" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="research.html" crc="3790634085" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="news---events.html" crc="3949253500" seo="true" mt="1603040263695" redirect="true"/>
+  <file name="team.html" crc="284409786" seo="true" mt="1603053837108" redirect="true"/>
+  <file name="resouces.html" crc="121876959" seo="true" mt="1603053850907" redirect="true"/>
+  <file name="contact.html" crc="354009286" seo="true" mt="1603054067558" redirect="true"/>
+</manifest>
