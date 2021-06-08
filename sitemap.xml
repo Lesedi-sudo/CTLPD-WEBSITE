@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://CTLPD.COM/index.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,13 +47,13 @@
   </url>
   <url>
     <loc>http://CTLPD.COM/academic-schools.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://CTLPD.COM/ctlpd.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <loc>http://CTLPD.COM/teaching---learning.html</loc>
+    <lastmod>2021-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,46 +62,64 @@
     <image:image>
       <image:loc>http://CTLPD.COM/images/download%20(2)21.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/40643626_2205875959655898_4767137983134433280_o-crop-u16200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/72853199_2477632205813604_7905550099051184128_o-crop-u16378.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/78058915_2521622854747872_6425210185064644608_o-crop-u16409.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/40643626_2205875959655898_4767137983134433280_o-crop-u162002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/72853199_2477632205813604_7905550099051184128_o-crop-u163782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/78058915_2521622854747872_6425210185064644608_o-crop-u164092.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://CTLPD.COM/study@spu.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://CTLPD.COM/campus-life.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://CTLPD.COM/about.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://CTLPD.COM/library.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://CTLPD.COM/research.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://CTLPD.COM/news---events.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://CTLPD.COM/team.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -112,8 +130,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://CTLPD.COM/resouces.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <loc>http://CTLPD.COM/student-academic-support.html</loc>
+    <lastmod>2020-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +143,31 @@
   </url>
   <url>
     <loc>http://CTLPD.COM/contact.html</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/download%20(2)2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/download%20(2)21.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://CTLPD.COM/events-calendar.html</loc>
+    <lastmod>2020-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/download%20(2)2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/download%20(2)21.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://CTLPD.COM/academic-staff-support.html</loc>
+    <lastmod>2020-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
