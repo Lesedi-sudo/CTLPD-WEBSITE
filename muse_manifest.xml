@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CTLPD.COM" resolutions="1x" timestamp="1622553238532">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CTLPD.COM" resolutions="1x" timestamp="1624542307270">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="501631775" ref="team:contact:about:teaching---learning:events-calendar:academic-schools:academic-staff-support:index:news---events:campus-life:student-academic-support:research:library:study@spu"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="team:contact:about:teaching---learning:events-calendar:academic-schools:academic-staff-support:index:news---events:campus-life:student-academic-support:research:library:study@spu"/>
-    <file name="team.css" crc="3863415117" ref="team"/>
-    <file name="contact.css" crc="4103995476" ref="contact"/>
+    <file name="master_a-master.css" crc="501631775" ref="contact:about:events-calendar:library:academic-staff-support:research:academic-schools:news---events:teaching---learning:team:study@spu:student-academic-support:index:campus-life"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:about:events-calendar:library:academic-staff-support:research:academic-schools:news---events:teaching---learning:team:study@spu:student-academic-support:index:campus-life"/>
+    <file name="contact.css" crc="3969564175" ref="contact"/>
     <file name="about.css" crc="190461796" ref="about"/>
-    <file name="teaching---learning.css" crc="43789228" ref="teaching---learning"/>
-    <file name="nomq_teaching---learning.css" crc="4185288851" ref="teaching---learning"/>
     <file name="events-calendar.css" crc="404329886" ref="events-calendar"/>
-    <file name="academic-schools.css" crc="190461796" ref="academic-schools"/>
-    <file name="academic-staff-support.css" crc="3772939601" ref="academic-staff-support"/>
-    <file name="index.css" crc="161224960" ref="index"/>
-    <file name="news---events.css" crc="190461796" ref="news---events"/>
-    <file name="campus-life.css" crc="190461796" ref="campus-life"/>
-    <file name="student-academic-support.css" crc="3999671528" ref="student-academic-support"/>
-    <file name="research.css" crc="190461796" ref="research"/>
     <file name="library.css" crc="190461796" ref="library"/>
+    <file name="academic-staff-support.css" crc="3772939601" ref="academic-staff-support"/>
+    <file name="research.css" crc="190461796" ref="research"/>
+    <file name="academic-schools.css" crc="190461796" ref="academic-schools"/>
+    <file name="news---events.css" crc="190461796" ref="news---events"/>
+    <file name="teaching---learning.css" crc="3865469257" ref="teaching---learning"/>
+    <file name="nomq_teaching---learning.css" crc="4185288851" ref="teaching---learning"/>
+    <file name="team.css" crc="4288799966" ref="team"/>
     <file name="study_spu.css" crc="190461796" ref="study@spu"/>
+    <file name="student-academic-support.css" crc="3999671528" ref="student-academic-support"/>
+    <file name="index.css" crc="19971723" ref="index"/>
+    <file name="campus-life.css" crc="190461796" ref="campus-life"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:academic-schools:teaching---learning:study@spu:campus-life:about:library:research:news---events:team:student-academic-support:contact:events-calendar:academic-staff-support"/>
@@ -42,55 +42,55 @@
   </folder>
   <folder name="images">
     <file name="arrowmenudown.png" crc="262559161" ref="index:teaching---learning:team:student-academic-support:contact:events-calendar:academic-staff-support">
-      <caption webpage="student-academic-support" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="events-calendar" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="academic-staff-support" alt=""/>
-      <caption webpage="events-calendar" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="student-academic-support" alt=""/>
     </file>
     <file name="download (2)2.jpg" crc="4019156365" seo="true" ref="index:teaching---learning:team:student-academic-support:contact:events-calendar:academic-staff-support">
-      <caption webpage="student-academic-support" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="events-calendar" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="academic-staff-support" alt=""/>
-      <caption webpage="events-calendar" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="student-academic-support" alt=""/>
     </file>
     <file name="download (2)21.jpg" crc="4101945544" seo="true" ref="index:teaching---learning:team:student-academic-support:contact:events-calendar:academic-staff-support">
-      <caption webpage="student-academic-support" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="events-calendar" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="academic-staff-support" alt=""/>
-      <caption webpage="events-calendar" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="student-academic-support" alt=""/>
     </file>
     <file name="phone-512.png" crc="518937414" ref="index:teaching---learning:team:student-academic-support:contact:events-calendar:academic-staff-support">
-      <caption webpage="student-academic-support" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="events-calendar" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="academic-staff-support" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="academic-staff-support" alt=""/>
-      <caption webpage="events-calendar" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="student-academic-support" alt=""/>
     </file>
     <file name="1024px-gmail_iconsvg.png" crc="4194711908" ref="index:teaching---learning:team:student-academic-support:contact:events-calendar:academic-staff-support">
-      <caption webpage="student-academic-support" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="teaching---learning" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="events-calendar" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="academic-staff-support" alt=""/>
-      <caption webpage="events-calendar" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="teaching---learning" alt=""/>
+      <caption webpage="student-academic-support" alt=""/>
     </file>
     <file name="2021-applications-website-banner-1-scaled.jpg" crc="251604353" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -167,6 +167,12 @@
     <file name="godfrey.jpg" crc="3772696054" ref="team">
       <caption webpage="team" alt=""/>
     </file>
+    <file name="lerato.jpg" crc="4015933549" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="ms jemina gopane .jpg" crc="3892830404" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
     <file name="kelesitse.jpg" crc="519124940" ref="team">
       <caption webpage="team" alt=""/>
     </file>
@@ -216,8 +222,8 @@
     <file name="google-maps-icon-u7511.png" crc="162084478" ref="contact"/>
     <file name="phone-icon-u7522.png" crc="4263871768" ref="contact"/>
     <file name="card1.jpg" crc="3996440069" ref="events-calendar:academic-staff-support">
-      <caption webpage="academic-staff-support" alt=""/>
       <caption webpage="events-calendar" alt=""/>
+      <caption webpage="academic-staff-support" alt=""/>
     </file>
     <file name="adobe-pdf-icon-logo-png-transparent.png" crc="3833703149" ref="events-calendar">
       <caption webpage="events-calendar" alt=""/>
@@ -227,18 +233,18 @@
     </file>
     <file name="img6-u16546-fr.jpg" crc="331986870" ref="academic-staff-support"/>
   </folder>
-  <file name="index.html" crc="4015778084" seo="true" mt="1605609913770" redirect="true"/>
+  <file name="index.html" crc="3799223092" seo="true" mt="1605609913770" redirect="true"/>
   <file name="academic-schools.html" crc="3938779614" seo="true" mt="1605609913770" redirect="true"/>
-  <file name="teaching---learning.html" crc="3904264146" seo="true" mt="1622549646511" redirect="true"/>
+  <file name="teaching---learning.html" crc="491181124" seo="true" mt="1622549646511" redirect="true"/>
   <file name="study@spu.html" crc="29417434" seo="true" mt="1605609913770" redirect="true"/>
   <file name="campus-life.html" crc="4138665585" seo="true" mt="1605609913770" redirect="true"/>
   <file name="about.html" crc="4204432347" seo="true" mt="1605609913770" redirect="true"/>
   <file name="library.html" crc="3919999734" seo="true" mt="1605609913770" redirect="true"/>
   <file name="research.html" crc="111422827" seo="true" mt="1605609913770" redirect="true"/>
   <file name="news---events.html" crc="244090173" seo="true" mt="1605609913770" redirect="true"/>
-  <file name="team.html" crc="3899697204" seo="true" mt="1605780845886" redirect="true"/>
+  <file name="team.html" crc="375575853" seo="true" mt="1624466515981" redirect="true"/>
   <file name="student-academic-support.html" crc="4275446609" seo="true" mt="1606203754996" redirect="true"/>
-  <file name="contact.html" crc="92354014" seo="true" mt="1605610354240" redirect="true"/>
+  <file name="contact.html" crc="4102995619" seo="true" mt="1605610354240" redirect="true"/>
   <file name="events-calendar.html" crc="243780901" seo="true" mt="1605779229305" redirect="true"/>
   <file name="academic-staff-support.html" crc="3959592498" seo="true" mt="1606205323352" redirect="true"/>
 </manifest>
