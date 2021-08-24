@@ -46,12 +46,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://CTLPD.COM/library.html</loc>
-    <lastmod>2020-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://CTLPD.COM/academic-schools.html</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,19 +85,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://CTLPD.COM/student-academic-support.html</loc>
-    <lastmod>2021-07-12</lastmod>
+    <loc>http://CTLPD.COM/library.html</loc>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://CTLPD.COM/images/download%20(2)2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://CTLPD.COM/images/download%20(2)21.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://CTLPD.COM/images/picture1.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://CTLPD.COM/research.html</loc>
@@ -130,8 +115,23 @@
     </image:image>
   </url>
   <url>
-    <loc>http://CTLPD.COM/events-calendar.html</loc>
-    <lastmod>2020-11-19</lastmod>
+    <loc>http://CTLPD.COM/student-academic-support.html</loc>
+    <lastmod>2021-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/download%20(2)2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/download%20(2)21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CTLPD.COM/images/picture1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://CTLPD.COM/contact.html</loc>
+    <lastmod>2021-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -142,8 +142,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://CTLPD.COM/contact.html</loc>
-    <lastmod>2021-07-12</lastmod>
+    <loc>http://CTLPD.COM/events-calendar.html</loc>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -167,11 +167,5 @@
     <image:image>
       <image:loc>http://CTLPD.COM/images/picture1.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://CTLPD.COM/assets/img_4755.cr2</loc>
-    <lastmod>2021-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
